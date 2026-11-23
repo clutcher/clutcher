@@ -1,3 +1,5 @@
+<a href="https://clutcher.dev/book/laminar-software-design/"><img src="laminar-software-design-cover.jpg" align="right" width="140" alt="Laminar Software Design: Foundations of High-Quality Code, a book by Igor Zarvanskyi"></a>
+
 ### Hi, I'm Igor Zarvanskyi
 
 I'm a software architect and engineering leader with 20 years of experience in software engineering, and the author of the book [Laminar Software Design: Foundations of High-Quality Code](https://clutcher.dev/book/laminar-software-design/). I work at Zaelab as a Software Architect & Engineering Manager, where I lead engineering teams into agentic engineering with Claude Code, on Java microservices and SAP Commerce. I hold the Claude Certified Architect - Professional certification from Anthropic.
