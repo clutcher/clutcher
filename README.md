@@ -14,17 +14,17 @@ Certified: Claude Certified Architect - Professional (Anthropic).
 
 #### Libraries and tools
 
-**Java and Spring**
+*Java and Spring*
 
 - [spring-modulith-module-archunit](https://github.com/clutcher/spring-modulith-module-archunit): ArchUnit rules that keep the modules of a Spring Modulith application apart.
 - [spring-security-exception-handler](https://github.com/clutcher/spring-security-exception-handler) and [spring-security-graphql-requiresscopes](https://github.com/clutcher/spring-security-graphql-requiresscopes): Spring Security libraries for error responses of REST and GraphQL APIs and for the `@requiresScopes` and `@authenticated` directives of GraphQL federation.
 
-**Engineering metrics**
+*Engineering metrics*
 
 - [sd-metrics-lib](https://github.com/clutcher/sd-metrics-lib): a Python library for team velocity and delivery forecasting from Jira and Azure DevOps data.
 - [metrics](https://github.com/clutcher/metrics): dashboards for team velocity, delivery forecasting and task analytics, built on sd-metrics-lib.
 
-**JetBrains IDEs**
+*JetBrains IDEs*
 
 - [Better Highlights](https://plugins.jetbrains.com/plugin/12895-better-highlights): an IntelliJ IDEA plugin for more readable code, with its issue tracker in [bh](https://github.com/clutcher/bh).
 - [awesome_jetbrains_plugins](https://github.com/clutcher/awesome_jetbrains_plugins): a curated list of plugins for JetBrains IDEs.
