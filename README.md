@@ -9,8 +9,8 @@ Certified: Claude Certified Architect - Professional (Anthropic).
 
 #### Agentic engineering
 
-- [laminar-skills](https://github.com/clutcher/laminar-skills): a Claude Code plugin where a team of AI agents reviews code against the ideas of my book, covered by LLM evals.
-- [book-writing-skills](https://github.com/clutcher/book-writing-skills): a Claude Code plugin for research, fact-checking and writing of a non-fiction book, used to write Laminar Software Design.
+- [laminar-skills](https://github.com/clutcher/laminar-skills): AI agents that review code against the ideas of my book, with LLM evals.
+- [book-writing-skills](https://github.com/clutcher/book-writing-skills): the Claude Code workflow I wrote the book with.
 
 #### Libraries and tools
 
