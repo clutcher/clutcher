@@ -29,6 +29,8 @@ Certified: Claude Certified Architect - Professional (Anthropic).
 - [Better Highlights](https://plugins.jetbrains.com/plugin/12895-better-highlights): an IntelliJ IDEA plugin for more readable code, with its issue tracker in [bh](https://github.com/clutcher/bh).
 - [awesome_jetbrains_plugins](https://github.com/clutcher/awesome_jetbrains_plugins): a curated list of plugins for JetBrains IDEs.
 
-I write about software design, agentic engineering and SAP Commerce at [clutcher.dev](https://clutcher.dev).
+#### Find me online
 
-Find me on [LinkedIn](https://www.linkedin.com/in/igor-zarvanskyi/) and [X](https://x.com/clutcher01).
+- [Blog (clutcher.dev)](https://clutcher.dev): software design, agentic engineering and SAP Commerce
+- [LinkedIn](https://www.linkedin.com/in/igor-zarvanskyi/)
+- [X](https://x.com/clutcher01)
